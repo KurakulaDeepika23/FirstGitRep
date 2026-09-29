@@ -1,0 +1,6 @@
+Subjects:
+1.Discrete Mathematics
+2.Oops through Java programming
+3.Database management system 
+4. Software engineering
+5.Computer organisation and architecture
